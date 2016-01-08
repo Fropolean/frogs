@@ -1,15 +1,18 @@
 body {
   background-image: url("http://www.twitterevolutions.com/bgs/frog-silhouette-twitter-background.jpg");
+  color: white;
 }
 
 
 p {
-  color: yellow;
+  color: white;
 
 }
 
 
-
+h3 {
+  font-size: 40px;
+}
 
 
 img {
