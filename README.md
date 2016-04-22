@@ -28,6 +28,6 @@ HTML, CSS, and Bootstrap
 
 ### License
 
-*{MIT}*
+Licensed under the MIT license
 
-Copyright (c) 2015 **_{Marika Allely, Tal Haberer, and Beth Foster}_**
+Copyright (c) 2016 **_{Marika Allely, Tal Haberer, and Beth Foster}_**
