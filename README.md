@@ -30,4 +30,4 @@ HTML, CSS, and Bootstrap
 
 Licensed under the MIT license
 
-Copyright (c) 2016 **_{Marika Allely, Tal Haberer, and Beth Foster}_**
+Copyright (c) 2016 **_Marika Allely, Tal Haberer, and Beth Foster_**
