@@ -1,35 +1,33 @@
-# _Webpage_
+# Frogs
 
-#### _It's a frog webpage! 1.7.2016
+## Description
+It's a frog webpage! 1.7.2016
 
-#### By _**Beth Foster, Marika Allely, and Tal Haberer**_
+## By _**Beth Foster, Marika Allely, and Tal Haberer**_
 
 ## Description
 
-_It  uses bootstrap, has  carousel, and has a video embedded. }_
+_It  uses bootstrap, has a carousel, and has a video embedded._
 
 ## Setup/Installation Requirements
 
-* _Download the folder, I guess_
-* _open in a browser_
-* _in a simple._
-
-_{Uses Bootstrap}_
+* `git clone https://github.com/MBAllely/frogs.git`
+* inside the new folder, open the file titled `new.html`
 
 ## Known Bugs
 
-_{CSS is not allowing modifications of font family or color in most cases, excepting the p-tag}_
+CSS is not allowing modifications of font family or color in most cases, excepting the p-tag
 
 ## Support and contact details
 
-_{Try fixing it first and then let us know how you did it.  Otherwise, we're on Github!  Usernames are Fropolean, techgir1, talh2016.}_
+Try fixing it first and then let us know how you did it.  Otherwise, we're on Github!  Usernames are Fropolean, techgir1, talh2016.
 
 ## Technologies Used
 
-_{HTML, CSS, and Bootstrap.  Written in Atom on a mac}_
+HTML, CSS, and Bootstrap
 
 ### License
 
 *{MIT}*
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2015 **_{Marika Allely, Tal Haberer, and Beth Foster}_**
